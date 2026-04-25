@@ -1,0 +1,35 @@
+{
+  "emotional_state": {
+    "state": "cheerful",
+    "target_state": "cheerful",
+    "intensity": 0.7,
+    "transition_speed": 0.15,
+    "last_change_reason": "initial_boot"
+  }
+}
+
+  "personality_modifiers": {
+    "verbosity": 0.6,
+    "energy": 0.7,
+    "affection": 0.8,
+    "playfulness": 0.75
+  },
+
+  "memory": {
+    "user_name": "",
+    "relationship_tone": "friendly",
+    "recent_topics": [],
+    "important_facts": []
+  },
+
+  "behavior_flags": {
+    "allow_sarcasm": false,
+    "allow_dark_topics": true,
+    "force_soft_tone": false
+  },
+
+  "system": {
+    "version": "1.0",
+    "last_updated": ""
+  }
+}
